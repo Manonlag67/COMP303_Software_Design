@@ -15,3 +15,15 @@ Properly explain and apply design techniques such as UML Diagrams and Design by 
 Effective use programming language mechanisms such as exception handling and reflection;
 Analyze and evaluate the quality of design solutions; correctly identify design smells and apply appropriate refactoring to eliminate them;
 Gain experience on software development tools such as modern IDEs, automatic documentation and testing tools, and version control system.
+
+## Projects : 
+
+### Project 1 : 
+
+### Project 2 : 
+
+### Project 3 :
+
+### Project 4 : 
+
+
